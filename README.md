@@ -6,7 +6,7 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
   npm install gimme-lyrics --save
 
 ## Usage
-```
+```javascript
 var lyrics = require('gimme-lyrics')
 
 lyrics.getLyrics('Drake', 'Hotline Bling', function(err, lyrics) {
