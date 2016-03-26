@@ -8,7 +8,6 @@
     "cheerio": "~0.20.0"
   },
   "scripts": {
-    "start": "node lib/index.js",
     "test": "node test/1.js"
   },
   "repository": {
@@ -23,7 +22,7 @@
     "name": "Rees Draminski",
     "email": "rees.draminski@gmail.com"
   },
-  "license": "MIT",
+  "license": "https://github.com/reesdraminski/gimme-lyrics/blob/master/LICENSE",
   "bugs": {
     "url": "https://github.com/reesdraminski/gimme-lyrics/issues"
   },
