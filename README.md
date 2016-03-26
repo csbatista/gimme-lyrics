@@ -1,5 +1,5 @@
 # gimme-lyrics
-A small library providing utility methods to `escape` and `unescape` HTML entities
+A small library allow a user to get the lyrics to just about any song from http://www.lyrics.com
 
 ## Installation
 
