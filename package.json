@@ -1,0 +1,31 @@
+{
+  "name": "gimme-lyrics",
+  "version": "1.0.1",
+  "description": "Get any lyrics for a song",
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "~2.69.0",
+    "cheerio": "~0.20.0"
+  },
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "node test/1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reesdraminski/gimme-lyrics.git"
+  },
+  "keywords": [
+    "lyrics",
+    "fetcher"
+  ],
+  "author": {
+    "name": "Rees Draminski",
+    "email": "rees.draminski@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reesdraminski/gimme-lyrics/issues"
+  },
+  "homepage": "https://github.com/reesdraminski/gimme-lyrics"
+}
