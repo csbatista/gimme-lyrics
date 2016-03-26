@@ -11,7 +11,7 @@ var lyrics = require('gimme-lyrics')
 
 lyrics.getLyrics('Drake', 'Hotline Bling', function(err, lyrics) {
 
-console.log(err || lyrics);
+  console.log(err || lyrics);
 
 });
 ```
