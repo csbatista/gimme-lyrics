@@ -3,7 +3,7 @@ A small library allow a user to get the lyrics to just about any song from http:
 
 ## Installation
 
-  npm install gimme-lyrics --save
+> npm install gimme-lyrics --save
 
 ## Usage
 ```javascript
@@ -16,7 +16,7 @@ lyrics.getLyrics('Drake', 'Hotline Bling', function(err, lyrics) {
 
 ## Tests
 
-  npm test
+> npm test
 
 ## Contributing
 
